@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ImportGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
+    <Import Project="$(NuGetPackageRoot)cntk.deps.opencv.zip/2.7.0/build/netstandard2.0/CNTK.Deps.OpenCV.Zip.targets" Condition="Exists('$(NuGetPackageRoot)cntk.deps.opencv.zip/2.7.0/build/netstandard2.0/CNTK.Deps.OpenCV.Zip.targets')" />
+    <Import Project="$(NuGetPackageRoot)cntk.deps.mkl/2.7.0/build/netstandard2.0/CNTK.Deps.MKL.targets" Condition="Exists('$(NuGetPackageRoot)cntk.deps.mkl/2.7.0/build/netstandard2.0/CNTK.Deps.MKL.targets')" />
+    <Import Project="$(NuGetPackageRoot)cntk.deps.cudnn/2.7.0/build/netstandard2.0/CNTK.Deps.cuDNN.targets" Condition="Exists('$(NuGetPackageRoot)cntk.deps.cudnn/2.7.0/build/netstandard2.0/CNTK.Deps.cuDNN.targets')" />
+    <Import Project="$(NuGetPackageRoot)cntk.deps.cuda/2.7.0/build/netstandard2.0/CNTK.Deps.Cuda.targets" Condition="Exists('$(NuGetPackageRoot)cntk.deps.cuda/2.7.0/build/netstandard2.0/CNTK.Deps.Cuda.targets')" />
+    <Import Project="$(NuGetPackageRoot)cntk.gpu/2.7.0/build/netstandard2.0/CNTK.GPU.targets" Condition="Exists('$(NuGetPackageRoot)cntk.gpu/2.7.0/build/netstandard2.0/CNTK.GPU.targets')" />
+  </ImportGroup>
+</Project>

@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "sgx6sInAqBY=",
+  "success": true,
+  "projectFilePath": "/Users/maedamitsuhiro/Documents/program/BasicRagLib/BasicRagLib/BasicRagLib.csproj",
+  "expectedPackageFiles": [
+    "/Users/maedamitsuhiro/.nuget/packages/cntk.deps.cuda/2.7.0/cntk.deps.cuda.2.7.0.nupkg.sha512",
+    "/Users/maedamitsuhiro/.nuget/packages/cntk.deps.cudnn/2.7.0/cntk.deps.cudnn.2.7.0.nupkg.sha512",
+    "/Users/maedamitsuhiro/.nuget/packages/cntk.deps.mkl/2.7.0/cntk.deps.mkl.2.7.0.nupkg.sha512",
+    "/Users/maedamitsuhiro/.nuget/packages/cntk.deps.opencv.zip/2.7.0/cntk.deps.opencv.zip.2.7.0.nupkg.sha512",
+    "/Users/maedamitsuhiro/.nuget/packages/cntk.gpu/2.7.0/cntk.gpu.2.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

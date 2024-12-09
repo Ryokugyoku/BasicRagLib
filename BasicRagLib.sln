@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BasicRagLib", "BasicRagLib\BasicRagLib.csproj", "{C7FFF763-1321-4A19-9CFC-B85AF9A26828}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BasicRagLib.Test", "BasicRagLib.Test\BasicRagLib.Test.csproj", "{EA711256-A9ED-4C31-B533-6AC78C433E9B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C7FFF763-1321-4A19-9CFC-B85AF9A26828}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7FFF763-1321-4A19-9CFC-B85AF9A26828}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C7FFF763-1321-4A19-9CFC-B85AF9A26828}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C7FFF763-1321-4A19-9CFC-B85AF9A26828}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EA711256-A9ED-4C31-B533-6AC78C433E9B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA711256-A9ED-4C31-B533-6AC78C433E9B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA711256-A9ED-4C31-B533-6AC78C433E9B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA711256-A9ED-4C31-B533-6AC78C433E9B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
