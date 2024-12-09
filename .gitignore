@@ -1,0 +1,5 @@
+/BasicRagLib/bin/*
+/BasicRagLib/obj/*
+/BasicRagLib/BasicRagLib.csproj.user
+/BasicRagLib.Test/bin/*
+/BasicRagLib.Test/obj/*
