@@ -3,3 +3,11 @@ BasicRagLib/obj/*
 BasicRagLib/BasicRagLib.csproj.user
 BasicRagLib.Test/bin/*
 BasicRagLib.Test/obj/*
+BasicRagLib.Test/obj/BasicRagLib.Test.csproj.nuget.dgspec.json
+BasicRagLib.Test/obj/project.assets.json
+BasicRagLib.Test/obj/project.nuget.cache
+BasicRagLib.Test/obj/Debug/net8.0/BasicRagLib.Test.AssemblyInfo.cs
+BasicRagLib.Test/obj/Debug/net8.0/BasicRagLib.Test.AssemblyInfoInputs.cache
+BasicRagLib.Test/obj/Debug/net8.0/BasicRagLib.Test.assets.cache
+BasicRagLib.Test/obj/Debug/net8.0/BasicRagLib.Test.csproj.AssemblyReference.cache
+BasicRagLib/CntkModule/.$BasicRagLib.drawio.bkp
